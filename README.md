@@ -20,3 +20,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: feel free
 - ⚡ I´m passionate about art, philosophy, music, reading, programming and I just love Coffee!!
 
+
+<div style="display: inline_block"><br>
+  <img align="right" alt="Du-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
+  <img align="right" alt="Du-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="right" alt="Du-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
