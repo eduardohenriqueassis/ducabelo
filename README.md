@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 ### Let´s coffee? 👋
 
 
-- 🔭 I’m currently studying analysis and systems development - Anehmbi Morumbi.
+- 🔭 I’m currently studying analysis and systems development at Anehmbi Morumbi.
 - 🌱 I’m currently studying HTML, CSS< Javascript and PHP.
 - 📫 How to reach me: eduardohenriqueassis1973@gmail.com
 - 😄 Pronouns: feel free
