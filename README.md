@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 Atualmente cursando Análise e Desenvolvimento de Sistemas pela Anhembi Morumbi.
 - 🌱 Também estudando HTML, CSS, Javascript e PHP.
-- 💡  Desenvolvendo a loja virtual Toque Brasil Instrumentos Musicais.
+- 💡  Desenvolvendo a loja virtual Toque Brasil Instrumentos Musicais e a página institucional do Hebert Construtor (em breve postarei aqui).
 - 🎸 Sou apaixonado por música, filosofia, arte, leitura e </ programação >. Ah sim, sempre acompanhado de um bom café!
 - 📫 Contato: eduardohenriqueassis1973@gmail.com
 
