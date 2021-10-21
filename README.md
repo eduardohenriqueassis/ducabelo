@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently studying analysis and systems development at Anehmbi Morumbi.
-- 🌱 I’m currently studying HTML, CSS< Javascript and PHP.
+- 🌱 I’m currently studying HTML, CSS, Javascript and PHP.
 - 📫 How to reach me: eduardohenriqueassis1973@gmail.com
 - 😄 Pronouns: feel free
 - ⚡ I´m passionate about art, philosophy, music, reading, programming and I just love Coffee!!
