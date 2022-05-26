@@ -11,23 +11,27 @@ Here are some ideas to get you started:
 - 🎸 Sou apaixonado por música, filosofia, arte, leitura e </ programação >. Ah sim, sempre acompanhado de um bom café!
 - 📫 Contato: eduardohenriqueassis1973@gmail.com
 
-[![Linkedin Badge](https://img.shields.io/badge/-Eduardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-henrique-de-assis/)](https://www.linkedin.com/in/eduardo-henrique-de-assis/)
-
+- [![Linkedin Badge](https://img.shields.io/badge/-Eduardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-henrique-de-assis/)](https://www.linkedin.com/in/eduardo-henrique-de-assis/)
+  ![image](https://www.codewars.com/users/ducabelo/badges/large)
 ---
 ### Let´s coffee? 👋
 
 
 - 🔭 I’m currently studying analysis and systems development at Anehmbi Morumbi.
 - 🌱 I’m currently studying HTML, CSS, Javascript, React and PHP.
-- 📫 How to reach me: eduardohenriqueassis1973@gmail.com
 - 😄 Pronouns: feel free
 - ⚡ I´m passionate about art, philosophy, music, reading, programming and I just love Coffee!!
+- 📫 How to reach me: eduardohenriqueassis1973@gmail.com  
+- [![Linkedin Badge](https://img.shields.io/badge/-Eduardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-henrique-de-assis/)](https://www.linkedin.com/in/eduardo-henrique-de-assis/)     
+  
+ ![image](https://www.codewars.com/users/ducabelo/badges/large)
+  
+  
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Eduardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-henrique-de-assis/)](https://www.linkedin.com/in/eduardo-henrique-de-assis/)
 
 
-
+ 
 
 <div style="display: inline_block"><br>
   <img align="right" alt="Du-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
