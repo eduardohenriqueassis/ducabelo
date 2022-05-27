@@ -10,7 +10,6 @@ Here are some ideas to get you started:
 - 💡  Desenvolvendo a loja virtual Toque Brasil Instrumentos Musicais e a página institucional do Hebert Construtor (em breve postarei aqui).
 - 🎸 Sou apaixonado por música, filosofia, arte, leitura e </ programação >. Ah sim, sempre acompanhado de um bom café!
 - 📫 Contato: eduardohenriqueassis1973@gmail.com
-
 - [![Linkedin Badge](https://img.shields.io/badge/-Eduardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-henrique-de-assis/)](https://www.linkedin.com/in/eduardo-henrique-de-assis/)
 
 ![image](https://www.codewars.com/users/ducabelo/badges/large)
