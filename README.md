@@ -51,7 +51,8 @@ Here are some ideas to get you started:
   
   
   <div style="display: inline_block">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ducabelo&show_icons=true&count_private=true" alt="ducabelo" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ducabelo&theme=blue-gray">
+  <img  src="https://github-readme-stats.vercel.app/api?username=ducabelo&show_icons=true&count_private=true" alt="ducabelo" />
 
 </div>
 
