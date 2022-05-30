@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 Atualmente cursando Análise e Desenvolvimento de Sistemas pela Anhembi Morumbi.
-- 🌱 Também estudando HTML, CSS, Javascript, React e PHP.
+- 🌱 Tecnologias: HTML, CSS, Javascript, React e PHP, MySQL, NPM, Webpack, Bootstrap...
 - 💡  Desenvolvendo a loja virtual Toque Brasil Instrumentos Musicais e a página institucional do Hebert Construtor (em breve postarei aqui).
 - 🎸 Sou apaixonado por música, filosofia, arte, leitura e </ programação >. Ah sim, sempre acompanhado de um bom café!
 - 📫 Contato: eduardohenriqueassis1973@gmail.com
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently studying analysis and systems development at Anehmbi Morumbi.
-- 🌱 I’m currently studying HTML, CSS, Javascript, React and PHP.
+- 🌱 Technologies: HTML, CSS, Javascript, React e PHP, MySQL, NPM, Webpack, Bootstrap.
 - 😄 Pronouns: feel free
 - ⚡ I´m passionate about art, philosophy, music, reading, programming and I just love Coffee!!
 - 📫 How to reach me: eduardohenriqueassis1973@gmail.com  
